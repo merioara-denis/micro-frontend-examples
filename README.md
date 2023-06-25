@@ -1,4 +1,4 @@
 # Project
 
 ## Scripts
-- start: lerna run start --parallel --sort microfront core
+- start: lerna run start --parallel
