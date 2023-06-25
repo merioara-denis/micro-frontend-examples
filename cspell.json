@@ -1,0 +1,6 @@
+{
+  "language": "en,ru_ru",
+  "import": ["@cspell/dict-ru_ru/cspell-ext.json"],
+  "ignorePaths": ["src/reportWebVitals.ts"],
+  "words": ["consts", "endregion", "Microfront", "TTFB"]
+}
